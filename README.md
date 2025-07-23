@@ -47,10 +47,6 @@ With a lot of effort and dedication, I successfully completed the Piscine, the i
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ft-laidjardim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ft-laidjardim&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 💬 Curious about 42 or my career transition? Feel free to ask! I love sharing my journey and learning from others.
