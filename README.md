@@ -6,13 +6,15 @@
 
 ###
 
-After building a solid career in Business Administration (Finance), I decided to completely change direction and follow my true passion: technology. In 2025, I made a significant change, moving to Portugal and starting my journey at 42 School Porto.
+After building a solid career in Business Administration with a focus on Finance, I made a bold and exciting decision in 2025: to pivot completely and pursue my true passion — technology.
 
-With a lot of effort and dedication, I successfully completed the Piscine, the immersion phase at 42, and I’m now officially part of this amazing community of learners and developers. 🚀
+This journey led me to Portugal, where I joined 42 School Porto, a unique and innovative coding school. With determination and resilience, I successfully completed the Piscine, an intense immersion phase that tests problem-solving, collaboration, and adaptability. I’m now officially part of this vibrant community of learners and future developers. 🚀
 
-🌱 Currently, I’m studying the C language, which is the initial phase at 42, and I’m excited to explore more about this world of software development.
+🌱 I'm currently diving deep into the C language, the foundation of the curriculum at 42, and I’m eager to continue exploring the vast world of software development.
 
-🔨 Although I’m just starting in the tech field, my previous experience in finance gives me an analytical and strategic mindset, which I’m applying to learn and grow.
+💼 Although I’m just beginning my tech journey, my background in finance equips me with a strong analytical mindset, strategic thinking, and business acumen — skills I’m now channeling into coding, debugging, and building real-world solutions.
+
+I’m excited about where this new path will take me — and I’m always open to connecting with others in tech, learning from different experiences, and contributing wherever I can.
 
 ###
 
