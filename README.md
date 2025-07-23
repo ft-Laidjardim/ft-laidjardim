@@ -14,6 +14,33 @@ With a lot of effort and dedication, I successfully completed the Piscine, the i
 
 🔨 Although I’m just starting in the tech field, my previous experience in finance gives me an analytical and strategic mindset, which I’m applying to learn and grow.
 
+###
+
+<h2 align="center">Studying in this moment</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+###
+
+
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+###
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ft-laidjardim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Laid Jessica Rodrigues Jardim github stats"/> 
@@ -25,15 +52,6 @@ With a lot of effort and dedication, I successfully completed the Piscine, the i
 </div>
 
 ###
-
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
 📫 How to reach me?
 
     [My LinkedIn]
