@@ -52,9 +52,5 @@ With a lot of effort and dedication, I successfully completed the Piscine, the i
 </div>
 
 ###
-📫 How to reach me?
-
-    [My LinkedIn]
-    Take a look at what I’m learning at 42 School on my main repository or on Notion.
 
 💬 Curious about 42 or my career transition? Feel free to ask! I love sharing my journey and learning from others.
