@@ -36,9 +36,9 @@ I’m excited about where this new path will take me — and I’m always open t
 
 
  <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagoTEP/thiagoTEP/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ft-laidjardim/ft-laidjardim/output/github-contribution-grid-snake.svg">
 </picture>
 
 
